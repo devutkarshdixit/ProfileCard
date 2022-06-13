@@ -53,8 +53,8 @@ a{
     display: inline-block;
     text-decoration: none;
     font-weight: 500;
-    color: #f44336;
-    border: 3px solid #111;
+    color: #fb8500;
+    border: 1px solid #111;
     padding: 12px 34px;
     font-size: 13px;
     border-radius: 2px;
@@ -69,8 +69,8 @@ a{
     font-style: bold;
     font-weight: 500;
     font-size: 15px;
-    background: #ab7c78;
-    transition: 1s;
+    background: #219ebc;
+    transition: 0.1s;
 }
 .darkMode{
     width: 100px;
